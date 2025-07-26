@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+lightgbm # A new powerful boosting algorithm
+statsmodels # For more statistical analysis if needed
+joblib # For saving/loading models
